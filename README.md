@@ -9,6 +9,9 @@ This workbook showcases my ability to clean, structure, and analyze complex data
 
 ## 🛠️ Skills Demonstrated
 
+<img width="817" height="271" alt="image" src="https://github.com/user-attachments/assets/7e95bc64-9a68-42dc-b9a1-678b5befc46b" />
+
+
 - **📊 Data Structuring & Cleaning**
   - Organized multi-sheet data for clarity and consistency
   - Applied filters and sorting to surface key trends and outliers
@@ -20,7 +23,7 @@ This workbook showcases my ability to clean, structure, and analyze complex data
 - **📤 Reporting & Visualization**
   - Created summary dashboards for quick insights
   - Used conditional formatting to highlight growth hotspots and decline zones
-<img width="963" height="130" alt="image" src="https://github.com/user-attachments/assets/e527829f-c008-4bb7-9037-a203d6a3d560" />
+
 
 ---
 
