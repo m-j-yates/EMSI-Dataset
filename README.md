@@ -20,6 +20,7 @@ This workbook showcases my ability to clean, structure, and analyze complex data
 - **📤 Reporting & Visualization**
   - Created summary dashboards for quick insights
   - Used conditional formatting to highlight growth hotspots and decline zones
+<img width="963" height="130" alt="image" src="https://github.com/user-attachments/assets/e527829f-c008-4bb7-9037-a203d6a3d560" />
 
 ---
 
